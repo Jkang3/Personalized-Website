@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jonathan Kang</title>
+</head>
+<body>
+    <h1>Woahh</h1>  
+    <h2>Woahhh</h2>
+    <p>Lorem <i>ipsum</i> ipsum dolor sit amet consectetur adipisicing elit. Eligendi mollitia est nam sequi unde impedit rem minima consectetur nisi magnam illum magni doloribus rerum, doloremque eum accusantium vero fugit. Odio.</p>
+    <button>Woahhhh</button>
+    <div>
+        <b>bold</b>
+    </div>
+    <a href="https://discord.gg/frontend" target="_blank">Discord server</a>
+    <a href="/dashboard.html" target="_block">Dashboard here</a>
+</body>
+</html>
